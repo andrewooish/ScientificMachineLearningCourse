@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1512"
+   height="500"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="03p03Fig03.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.30769231"
+     inkscape:cx="757.25"
+     inkscape:cy="383.5"
+     inkscape:window-width="1312"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g8"
+     transform="matrix(3.129252,0,0,3.129252,-1729.2197,-991.93879)">
+    <path
+       class="link"
+       marker-end="url(#arrow)"
+       d="m 596,373.5 180,-40"
+       style="fill:none;stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path1" />
+    <path
+       class="link"
+       marker-end="url(#arrow)"
+       d="m 776,333.5 180,40"
+       style="fill:none;stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path2" />
+    <path
+       class="link"
+       marker-end="url(#arrow)"
+       d="M 596,373.5 H 776"
+       style="fill:none;stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path3" />
+    <path
+       class="link"
+       marker-end="url(#arrow)"
+       d="m 596,373.5 180,40"
+       style="fill:none;stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path4" />
+    <path
+       class="link"
+       marker-end="url(#arrow)"
+       d="M 776,373.5 H 956"
+       style="fill:none;stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path5" />
+    <path
+       class="link"
+       marker-end="url(#arrow)"
+       d="m 776,413.5 180,-40"
+       style="fill:none;stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path6" />
+    <circle
+       r="10"
+       class="node"
+       id="0_0"
+       cx="596"
+       cy="373.5"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="1_0"
+       cx="776"
+       cy="333.5"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="1_1"
+       cx="776"
+       cy="373.5"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="1_2"
+       cx="776"
+       cy="413.5"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="2_0"
+       cx="956"
+       cy="373.5"
+       style="fill:#ffffff;stroke:#333333" />
+    <text
+       class="text"
+       dy="0.34999999em"
+       x="561"
+       y="453.5"
+       style="font-size:12px"
+       id="text6">Input Layer ∈ ℝ¹</text>
+    <text
+       class="text"
+       dy="0.34999999em"
+       x="741"
+       y="453.5"
+       style="font-size:12px"
+       id="text7">Hidden Layer ∈ ℝ³</text>
+    <text
+       class="text"
+       dy="0.34999999em"
+       x="921"
+       y="453.5"
+       style="font-size:12px"
+       id="text8">Output Layer ∈ ℝ¹</text>
+  </g>
+  <defs
+     id="defs8">
+    <marker
+       id="arrow"
+       viewBox="0 -5 10 10"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto"
+       refX="40">
+      <path
+         d="M 0,-5 10,0 0,5"
+         style="fill:#505050;stroke:#505050"
+         id="path8" />
+    </marker>
+  </defs>
+</svg>
